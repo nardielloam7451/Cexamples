@@ -1,0 +1,36 @@
+Classes by Number:
+CSCI107	Joy and Beauty of Computing                   Freshman	MWF  1000-1050
+CSCI112	Programming in C                              Sophomore	MWF  0900-0950
+CSCI127	Joy and Beauty of Data                        Freshman	MWF  1200-1250
+CSCI132	Intro to Data Structures                      Freshman	TR   1100-1150
+CSCI215	Social and Ethical Issues in Computer Science Sophomore	TR   1300-1350
+CSCI232	Data Structures and Algorithms                Sophomore	MWF  1100-1150
+CSCI246	Discrete Structures                           Sophomore	MWF  1300-1350
+CSCI301	Intro to Data Mining                          Junior	MWF  0800-0850
+CSCI305	Programming Languages                         Junior	TR   1200-1250
+CSCI338	Computational Theory                          Junior	TR   1000-1050
+CSCI351	System Administration                         Junior	TR   1500-1550
+CSCI442	Robot Vision                                  Senior	MWF  1500-1550
+CSCI446	Artificial Intelligence                       Senior	TR   0900-0950
+CSCI447	Machine Learning                              Senior	MWF  1400-1450
+CSCI468	Compilers                                     Senior	TR   1400-1450
+
+Classes by Day:
+CSCI301	Intro to Data Mining                          Junior	MWF  0800-0850
+CSCI112	Programming in C                              Sophomore	MWF  0900-0950
+CSCI107	Joy and Beauty of Computing                   Freshman	MWF  1000-1050
+CSCI232	Data Structures and Algorithms                Sophomore	MWF  1100-1150
+CSCI127	Joy and Beauty of Data                        Freshman	MWF  1200-1250
+CSCI246	Discrete Structures                           Sophomore	MWF  1300-1350
+CSCI447	Machine Learning                              Senior	MWF  1400-1450
+CSCI442	Robot Vision                                  Senior	MWF  1500-1550
+
+Classes offered at a specific time:
+CSCI112	Programming in C                              Sophomore	MWF  0900-0950
+
+Classes offered to a specific year:
+CSCI301	Intro to Data Mining                          Junior	MWF  0800-0850
+CSCI338	Computational Theory                          Junior	TR   1000-1050
+CSCI305	Programming Languages                         Junior	TR   1200-1250
+CSCI351	System Administration                         Junior	TR   1500-1550
+
